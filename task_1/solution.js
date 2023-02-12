@@ -39,7 +39,6 @@ function addInCartCountChange(value) {
     newValue = oldValue;
     // увеличьте значение newValue на 1
     newValue = newValue + 1;
-    console.log(newValue);
 
     // Конец решения задания №1.2.
 
@@ -59,7 +58,6 @@ function addInCartSumChange(sum, delta) {
     // замените склеивание, используемое в newSum Text на шаблонную строку
     newSumText = `${newSum} ₽`;
 
-    console.log(newSumText);
 
     // Конец решения задания №1.3.
 
